@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "nuxt": "^3.14.1592",
+    "nuxt-easy-lightbox": "^1.0.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/robots": "^4.1.11",
+    "@nuxtjs/sitemap": "^6.1.5",
+    "vuetify-nuxt-module": "^0.18.3"
+  }
+}
